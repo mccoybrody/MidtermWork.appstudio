@@ -1,3 +1,4 @@
+
 let myAnimals = ["dog", "cat", "horse", "meercat"]
 
 let animals = prompt("Please enter the name of an animal")
